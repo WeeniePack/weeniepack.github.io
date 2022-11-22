@@ -129,8 +129,28 @@ hash = "e5db1e8232d9f025666aa3b961353530a840ace03c868bbfcec60df27c2aef7c"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "9d9cb411da7dcd6da6b9a4875045b46d5e170ff6561eb3de6b570992a9fd768a"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "b334acf9a76ea16a2223b709ef78ec9c861c3f7d6a153bfbd1956edd562205c6"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "cd63a1765da62ceb595f11723dd56903c7f999d163a0013e4553b0ca70adcfb4"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "d8e7c4a9b07b1710e2a9f8fc8e7a36b7929d6962acaa7bcf7005a24b827bb10a"
 metafile = true
 
 [[files]]
@@ -249,6 +269,11 @@ hash = "a2f5bf0f288103c1fe209951a1a6ab0717fb836905b5129fa69709f37dedc0af"
 metafile = true
 
 [[files]]
+file = "mods/death-backup.pw.toml"
+hash = "a208c3252484b1673dc58d346d1e5744bde214caa5a36c34de4bf304dabb3760"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "fc9df588f883239d89cc010c4c13e8c15b2dd51ed1339eec53563c80a6fd1bbb"
 metafile = true
@@ -261,6 +286,31 @@ metafile = true
 [[files]]
 file = "mods/eden-ring.pw.toml"
 hash = "e5fae7fedf895b1d725df48f57567bfb2f4a45b76c70f63f856a253fbd635b80"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "2c0bf2b9dab79b91d944ce6bf0a9a8416c02ca81d33209efa8a724eb29c320d5"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0395722100397e394dfddec723017c1ea18433f371250f80dae911b4e1c8b0d9"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "85f91bd1ff7f77e9e5b5d81844c1ec62b3a3815954b1d4f6ac1ad86ae6032909"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
@@ -416,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "4ac5ebf6f5ffbda94daeab5975ded44ad6761cb04a65aecb2d694f6b790289db"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0cccc3f572cda0003a3fdcd1e69caff25dca302db09653ce5c3ca2f7e44be4f2"
 metafile = true
 
 [[files]]
@@ -614,21 +669,6 @@ hash = "6c857ae9df87691307527c3636144f9594a4c79d84fea544de474a37cb83d6de"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "bc378fc4c41832e4efba30f8f233e33ee749b748f3627df94db0e366c3dfe94d"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "25e04fff03038a0d8b2b9cf248f975f044b96a4a5df1b8937491c02043212f42"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "12920b46a905b51a7d3869b4db549693b7c3e8f5e94032539865c6e17fe45027"
-metafile = true
-
-[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "9749c28ffc51ba178eb801cb46c46d8267b213dd73858556a35226cf11c17fa2"
 metafile = true
@@ -706,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/this-rocks.pw.toml"
 hash = "a99701ca0b8a9cbcebdeb8a3d19239d2b8ce746858f3a521d71f5261611a8018"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
 metafile = true
 
 [[files]]
