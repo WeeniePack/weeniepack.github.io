@@ -174,11 +174,6 @@ hash = "4f10d0e18af7387a4ff1c914c8211b55b2b825f8226ce35a56403ab2fd6c38a3"
 metafile = true
 
 [[files]]
-file = "mods/build-guide.pw.toml"
-hash = "a09131e0774ed5f352dc24b364c553a1ba7553411445057fd2d2790f6be06980"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "e958f49b25435874ac61ee1647de6b4adda09a593ebbbc22f91356b1d03dea1e"
 metafile = true
@@ -361,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/goodall.pw.toml"
 hash = "4b420aa1626d8f9752b4e6eee56ec2c7a419f729e212bc9fa6efbb2d065467d0"
+metafile = true
+
+[[files]]
+file = "mods/grid.pw.toml"
+hash = "b54ee7e16d6b8fd292cd203852a9e7f66e867d662db4116ce29b161fa7468251"
 metafile = true
 
 [[files]]
