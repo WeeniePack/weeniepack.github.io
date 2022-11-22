@@ -499,6 +499,11 @@ hash = "c8acd8658d3f17e188d86b973381c3bdaed61c412884ed2b5b23cd036be51469"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "8a820398fee4850ce4b1839cde459a40ece4dd6a185d433bc6f4ce6ff80093f1"
 metafile = true
@@ -636,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "d4e2b4012f363389d466eae43c8633a7987ddf8c3f589a6b4995f5b51d948748"
 metafile = true
 
 [[files]]
