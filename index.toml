@@ -5,10 +5,6 @@ file = "config/fwaystones/config.json5"
 hash = "ca2248c59a2663a69bca129f6612312cdd70c39f7f966911d98185d71324c577"
 
 [[files]]
-file = "icon.png"
-hash = "ce3a2076d5f34d0ecbc018f63381d70634eea23c34fa085cfc19b711a7cec0ae"
-
-[[files]]
 file = "mods/addadd.pw.toml"
 hash = "53964529fb9cbe9a187dca2735754a7815f458045851d4b7afc91b72ffd56af5"
 metafile = true
@@ -650,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "4270ea77fa4f2d308b2299b469643f4eb5b19f7dc706af35a6e747fcfd478a38"
+hash = "c419f5512f5969d06ce1213740482382cd480540eb9cabc98fe322b854d1a0bb"
 metafile = true
 
 [[files]]
@@ -665,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
-hash = "2e2e572b27d72c75407f1d58486284bd689a6049f7db07b4d2e47b4d20542ff1"
+hash = "944ef842aaa61df52d17ae96cea3696a2985344671225b52b78d4a02115d82fd"
 metafile = true
 
 [[files]]
