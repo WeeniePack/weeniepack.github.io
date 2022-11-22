@@ -1,0 +1,13 @@
+name = "Angel Block Renewed"
+filename = "angelblockrenewed-fabric-1.0-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rq0QQVDc/versions/R3qVE54e/angelblockrenewed-fabric-1.0-1.19.jar"
+hash-format = "sha1"
+hash = "3566eadc513fb934c41369803d8c0c0a6418e1a0"
+
+[update]
+[update.modrinth]
+mod-id = "rq0QQVDc"
+version = "R3qVE54e"

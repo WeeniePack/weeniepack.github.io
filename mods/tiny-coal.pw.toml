@@ -1,0 +1,13 @@
+name = "Tiny Coal"
+filename = "Tiny-Coal-Fabric-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Ezzuwck/versions/5EjoHzWH/Tiny-Coal-Fabric-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "ad6bf2b5303d214bff8a4c27305fb14cecd919b4"
+
+[update]
+[update.modrinth]
+mod-id = "6Ezzuwck"
+version = "5EjoHzWH"

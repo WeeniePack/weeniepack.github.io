@@ -1,0 +1,13 @@
+name = "Bee in a Jar - Reborn"
+filename = "beeinajar-1.19-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93cf38e522ecfab2dc33e620e6c37ce79a5ac973"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4032108
+project-id = 594217
