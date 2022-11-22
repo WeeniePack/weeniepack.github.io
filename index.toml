@@ -284,31 +284,6 @@ hash = "e5fae7fedf895b1d725df48f57567bfb2f4a45b76c70f63f856a253fbd635b80"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "2c0bf2b9dab79b91d944ce6bf0a9a8416c02ca81d33209efa8a724eb29c320d5"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "0395722100397e394dfddec723017c1ea18433f371250f80dae911b4e1c8b0d9"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "85f91bd1ff7f77e9e5b5d81844c1ec62b3a3815954b1d4f6ac1ad86ae6032909"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
-metafile = true
-
-[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "51862a0a6402549dad53f7060b513310b3033c52c64f7d7ab851db8caa5bfc90"
 metafile = true
@@ -666,6 +641,31 @@ metafile = true
 [[files]]
 file = "mods/replant-swamp-trees.pw.toml"
 hash = "6c857ae9df87691307527c3636144f9594a4c79d84fea544de474a37cb83d6de"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+hash = "4270ea77fa4f2d308b2299b469643f4eb5b19f7dc706af35a6e747fcfd478a38"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "257f843d0969c213482bed2da3592d2b09c45e1135eb8f70d5dd8577201da515"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "2e2e572b27d72c75407f1d58486284bd689a6049f7db07b4d2e47b4d20542ff1"
 metafile = true
 
 [[files]]
