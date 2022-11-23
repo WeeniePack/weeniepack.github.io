@@ -290,6 +290,16 @@ hash = "ff5394e1e33ce54fc28ead7a70e787838006f0e4ae4eb3562698ebfc18ade393"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "014aa43e2754f02f0503664394ba6b7a86e9fd10ed455c6521376546d75f843c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9f63ff9c183f0299047f5cd287150d25ae24f2147b98928e6fd83c595385eb5d"
 metafile = true
