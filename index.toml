@@ -620,16 +620,6 @@ hash = "63881a6fc18ca20b2e1d64b15eefe6b7890af2e4df7533a1428a0c00ebc21d35"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "035423ea0a3d1bae08912a208d1b1592fc455fcbc89084993eadc7409561f346"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "b2a696f56cc4155d8d09a8f7c2af5ec6c486e2aed99e18e2c0f4ba77eabe2b88"
-metafile = true
-
-[[files]]
 file = "mods/rare-ice.pw.toml"
 hash = "774e241c377cb5de155934e127a68e079ef591fe34fc063781a683a4424df15d"
 metafile = true
