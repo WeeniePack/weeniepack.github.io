@@ -1,6 +1,6 @@
 name = "WeeniePack 1.19.2"
 author = "Karteufel"
-version = "0.1.4"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "711966738d7ac947ffdd21d4007eaeaa18c923410b58c671d11af1c3733977f7"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.1-beta.16"
+quilt = "0.17.6"
