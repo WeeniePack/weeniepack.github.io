@@ -395,11 +395,6 @@ hash = "83e3feba5651eb28387b83baf0426ae054c73b74ccd10d529b9e5a66ea6dd000"
 metafile = true
 
 [[files]]
-file = "mods/keybinds.pw.toml"
-hash = "c547c9f2c889e3ed755e40495838d38907445e1fdeddf05719c0a0ea5f34c1cc"
-metafile = true
-
-[[files]]
 file = "mods/kibe.pw.toml"
 hash = "91754e2507931e7e22dd6af0cc9fccc598b73a35075ec9981983143545d10d91"
 metafile = true
