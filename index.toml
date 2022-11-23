@@ -290,16 +290,6 @@ hash = "ff5394e1e33ce54fc28ead7a70e787838006f0e4ae4eb3562698ebfc18ade393"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "014aa43e2754f02f0503664394ba6b7a86e9fd10ed455c6521376546d75f843c"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9f63ff9c183f0299047f5cd287150d25ae24f2147b98928e6fd83c595385eb5d"
 metafile = true
@@ -617,6 +607,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "63881a6fc18ca20b2e1d64b15eefe6b7890af2e4df7533a1428a0c00ebc21d35"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "3c18caff27abeb8c609585c58f02178a5804c7ff999b1027becf54a0c97dc211"
 metafile = true
 
 [[files]]
