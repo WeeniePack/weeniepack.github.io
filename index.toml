@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1c67daa64f5b79596514b81321e9c109d2fc72710e2730c16cb79f31282ea2ae"
+hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "bf7af6c7c0c6f5331d1a1ff2be5d336bf6d5f04f83426014eee6bd219e9fb13f"
+hash = "4d7ecd93d92bab7af57de8b71aa52676dc93df2b92991702af582b026f256448"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "2cc10b7953a6a9d04364c43b58c5c322cb4c91362c3f4b4350409a9cfe822703"
+hash = "d5411ff0034adb6d4d9d10843f6d3d1cad36300f65180cc307ca9f88bd24f3eb"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "8d259b6affcbf9a4b55cfb73ffaec71c043636b67488f2d8da914a668326a71a"
+hash = "cf864900e82329abb22fa518ec66b6970c5cdd2765b2631276479a0d11e88258"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "60f2d656f7e767df67866ff0002108ddc58eebdde07c784d18a2a753dd2d8385"
+hash = "6c8675b411ecec744f7421c93e7a27a31b049446fe91b1a0659847f349cfc5d2"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "f6390e2cc50a40dc7a54cba95d0c82016537e33f8915ade0b071ea907af15eb3"
+hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
 metafile = true
 
 [[files]]
