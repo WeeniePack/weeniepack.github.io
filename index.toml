@@ -5,6 +5,14 @@ file = "config/fwaystones/config.json5"
 hash = "ca2248c59a2663a69bca129f6612312cdd70c39f7f966911d98185d71324c577"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "e609c21a808ac975f4730300a48c73e847139276335f5eb7c23af28bebc06c33"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "2ca2be7ef8ddbfcff9f6c89a64cd3f75a1c288b71a2ea632b4a6ce79295913f8"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "53964529fb9cbe9a187dca2735754a7815f458045851d4b7afc91b72ffd56af5"
 metafile = true
@@ -825,5 +833,9 @@ hash = "c2ed84dfe7148f41ac00791001afa02f74c1e0e3a269819046f60ccc8149bd5d"
 metafile = true
 
 [[files]]
+file = "options.amecsapi.txt"
+hash = "9f1b23ec298346cd2e55b91b7b73db6907796a2a98020c32ecbc589fa5b11d42"
+
+[[files]]
 file = "options.txt"
-hash = "47f941f45b9eedb59138ca8168c6f8bc05849d1334bcdf9a29e607f4881e9c08"
+hash = "36689e0c7acbd790187547f3699babcc1c2bbf63fd573b68e7890c347d15439a"
