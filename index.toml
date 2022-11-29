@@ -773,11 +773,6 @@ hash = "e5d706a71cf5822eb1325f9311628e70ded17d65dd91ffd57cddb17b3a33f352"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "d22c0ad4d0c206650357818ae8a096d5f53e043c28ba3bc5a082a6804dee4825"
-metafile = true
-
-[[files]]
 file = "mods/unsaddle.pw.toml"
 hash = "d63b92a227fc23bff3c4276325d5eed2ab0b0637a9d11d42b649def0e3947fdd"
 metafile = true
@@ -830,6 +825,11 @@ metafile = true
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
 hash = "c2ed84dfe7148f41ac00791001afa02f74c1e0e3a269819046f60ccc8149bd5d"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
 metafile = true
 
 [[files]]
