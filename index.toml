@@ -263,11 +263,6 @@ hash = "a2f5bf0f288103c1fe209951a1a6ab0717fb836905b5129fa69709f37dedc0af"
 metafile = true
 
 [[files]]
-file = "mods/death-backup.pw.toml"
-hash = "a208c3252484b1673dc58d346d1e5744bde214caa5a36c34de4bf304dabb3760"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "fc9df588f883239d89cc010c4c13e8c15b2dd51ed1339eec53563c80a6fd1bbb"
 metafile = true
