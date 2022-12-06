@@ -1,13 +1,13 @@
 name = "Advanced Reborn (Fabric)"
-filename = "AdvancedReborn-1.19-1.1.2.jar"
+filename = "AdvancedReborn-1.19-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e8199e4abd4e433af22827c33d041d03c43f2dd1"
+hash = "357373f74214bdadef78f15428d0e82f14ae7c44"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4081795
+file-id = 4124697
 project-id = 543089
