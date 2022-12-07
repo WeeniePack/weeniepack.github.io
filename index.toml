@@ -274,11 +274,6 @@ hash = "e5fae7fedf895b1d725df48f57567bfb2f4a45b76c70f63f856a253fbd635b80"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "474fb2b415628175a6f6d36bc5616c7e67bc44d01b35bfa383927fceffd8da61"
-metafile = true
-
-[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "51862a0a6402549dad53f7060b513310b3033c52c64f7d7ab851db8caa5bfc90"
 metafile = true
