@@ -399,6 +399,11 @@ hash = "ff7e5391c32f16647a07ecbbb7b889b15d5ae30d86f8b1cc4fd4b4d1bb03a41d"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "e3e09b9d3761e31af7dc0396cc6b08fbe82285bdf05762c00a46eb7225e2b8a8"
 metafile = true
