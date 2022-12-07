@@ -184,6 +184,11 @@ hash = "8e68f456cd387cbf085d4e85571af0475344bd79f8d862ecf441cbce7098e5c5"
 metafile = true
 
 [[files]]
+file = "mods/cave-enhancements.pw.toml"
+hash = "7eac8bac7d1f1ef1140a68407938fd93307868119c2992a9c10abb8ffc5542a2"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "9922b592707130d013150cb7e154f2b0624f582c2875fc6f9f46dab689dc41c7"
 metafile = true
@@ -236,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-bench.pw.toml"
 hash = "4a1a8c09e388636b6dc6ff9ac7ab5d09cda3a2250848ba522ac626677ad3d9a5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
@@ -801,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-coal.pw.toml"
 hash = "68c9c9ded91c5d29bf542339dc2bbf0d18ca6118074b94f08ad565c882ddad94"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
 metafile = true
 
 [[files]]
