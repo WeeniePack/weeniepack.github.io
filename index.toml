@@ -354,11 +354,6 @@ hash = "660dc9b651646bad5f244d238acbb2cdfd4ec7f1f9ba0e3c0f76bb55d80d7c5a"
 metafile = true
 
 [[files]]
-file = "mods/iceberg-fabric.pw.toml"
-hash = "83e87c49a5cbffae889e310f4e60984865f69b595480bd50d4b8e842282aff0b"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
