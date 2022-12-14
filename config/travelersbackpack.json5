@@ -7,7 +7,7 @@
 		"invulnerableBackpack": true,
 		"tanksCapacity": 324000,
 		// Places backpack at place where player died
-		"backpackDeathPlace": false,
+		"backpackDeathPlace": true,
 		// Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 		"backpackForceDeathPlace": false,
 		"enableSleepingBagSpawnPoint": false,

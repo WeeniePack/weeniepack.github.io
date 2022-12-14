@@ -5,8 +5,16 @@ file = "config/fwaystones/config.json5"
 hash = "ca2248c59a2663a69bca129f6612312cdd70c39f7f966911d98185d71324c577"
 
 [[files]]
+file = "config/modern_industrialization.toml"
+hash = "32d83bd8336f341d624189d3f4b3fd6d356c316ac497bd3febf01dca096b2f31"
+
+[[files]]
 file = "config/travelersbackpack.json5"
-hash = "e609c21a808ac975f4730300a48c73e847139276335f5eb7c23af28bebc06c33"
+hash = "468cde50cfedb77d73e9998e0da8c1139b79c0f3e365cde4b5a5317e43f4badc"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "90c282b11a85081c875a29273523cdca533b5e5774bb551bb5869c8bca63b97c"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -645,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "805047d9038a57b8ebac8deed07e30a7f2fbba75e53a983aecf27520a70f27e9"
+hash = "dc5e1fe3cc654958f0d7dba64d200a5ffe17f3b2d3fc9416784214c13e0c0d03"
 metafile = true
 
 [[files]]
@@ -735,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3c1887a5e3c034669c0e180d61fcf3a7446b61c1f112dfd09347851d00a6dcae"
+hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
 metafile = true
 
 [[files]]
@@ -839,6 +847,11 @@ hash = "e5d706a71cf5822eb1325f9311628e70ded17d65dd91ffd57cddb17b3a33f352"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
 file = "mods/unsaddle.pw.toml"
 hash = "d63b92a227fc23bff3c4276325d5eed2ab0b0637a9d11d42b649def0e3947fdd"
 metafile = true
@@ -891,11 +904,6 @@ metafile = true
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
 hash = "6fa5ddc5851724fea6d8e3617da620a5543eaeef9c8b4fb22499baca7f63dc00"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
 metafile = true
 
 [[files]]
