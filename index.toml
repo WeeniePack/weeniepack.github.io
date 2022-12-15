@@ -9,6 +9,10 @@ file = "config/modern_industrialization.toml"
 hash = "32d83bd8336f341d624189d3f4b3fd6d356c316ac497bd3febf01dca096b2f31"
 
 [[files]]
+file = "config/rare-ice.properties"
+hash = "adb1135237b590fe018209b5b7ae3b95d02ecfcb681aec780dd80c1187096edc"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "468cde50cfedb77d73e9998e0da8c1139b79c0f3e365cde4b5a5317e43f4badc"
 
@@ -468,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "966a9fcb0a3830d292e24ce61fbbb4c9f7546b1153a0b8a44bc7efc83b0bd42e"
+hash = "46abacb059a2af9fe270f2be6c714ac7d5eeee71b4a9fa2f20ac047438a12cab"
 metafile = true
 
 [[files]]
@@ -647,13 +651,18 @@ hash = "7a9826981f7d7f143d716fa20f973860a6228fcd8b2d15dd4d7f2e8b78cee776"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "2c47a34f1e9c1ea09dbc1c68f4644a32978485bc5237c87a4899f9bccc37bf1a"
+metafile = true
+
+[[files]]
 file = "mods/portable-hole.pw.toml"
 hash = "89e52623ba350013d96ee30eb7fa96d2dce3f35d0c61ac0d4bfbb6fde2179589"
 metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "dc5e1fe3cc654958f0d7dba64d200a5ffe17f3b2d3fc9416784214c13e0c0d03"
+hash = "020715349309a741980be2382682a651407b3e9d528c9e20014a2bfecdb4c46f"
 metafile = true
 
 [[files]]
