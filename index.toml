@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "020715349309a741980be2382682a651407b3e9d528c9e20014a2bfecdb4c46f"
+hash = "c756af037853f59d1bd2834272dfdbb0c25aac642c6b65dac496503257263e43"
 metafile = true
 
 [[files]]
@@ -843,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f7fa1682ebb46d34efb8a4a5fca1dd52781016598a2d3b6aa9b4fca8ecc5daf2"
+metafile = true
+
+[[files]]
+file = "mods/trashslot-fabric-edition.pw.toml"
+hash = "da15ba648e0d6f9a092975d26bdeca271d9fcddb5dad2fbd38357cc3f6e1064f"
 metafile = true
 
 [[files]]
