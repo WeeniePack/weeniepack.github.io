@@ -1,13 +1,13 @@
 name = "MCPitanLibarch"
-filename = "mcpitanlibarch-1.2.9-1.19-fabric.jar"
+filename = "mcpitanlibarch-1.2.8-1.19-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/IOHaGzOg/mcpitanlibarch-1.2.9-1.19-fabric.jar"
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/gNJskWjA/mcpitanlibarch-1.2.8-1.19-fabric.jar"
 hash-format = "sha1"
-hash = "a0a839d6733ad44cf3d3aa3daf0f4c5bcb4457de"
+hash = "8ae059534a4b0fc8d3ad97e2e7ab2466951fe659"
 
 [update]
 [update.modrinth]
 mod-id = "uNRoUnGT"
-version = "IOHaGzOg"
+version = "gNJskWjA"
