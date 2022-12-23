@@ -136,6 +136,16 @@ hash = "8f25dba85d29da11e0ea4a82f75f2652c5a6b5f3e461ad91162fe90fb66656b7"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "f53f6e9fd20d04b26e04ad91b9cd541146d0691d4b463949c8192a9a706cce97"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "e5db1e8232d9f025666aa3b961353530a840ace03c868bbfcec60df27c2aef7c"
 metafile = true
@@ -532,12 +542,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "824c3dc9ef56c991324dc9218c9a27c593c079d64eba0d5a1f697187d38a9e56"
+hash = "7932267eb4800ef47ab4bbe3e3534ade37599f352e952e347bae721db2426911"
 metafile = true
 
 [[files]]
 file = "mods/mega.pw.toml"
-hash = "10e77dcaa3e575bdd40a64043515405eec0a07729d0bf0e1eb6baee47d4c0ee2"
+hash = "993c4e3d8566502b8213af07b3093ccf97927e40191ae93c1b6d123feec84065"
 metafile = true
 
 [[files]]
@@ -662,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "5dff7591341c5681d34c848d51f16da63091c78732224e41df75a910bad96990"
+hash = "5d975f88d2ffe297871c37aac64f903ef0de5b5cffee88921ccc534baf2fda62"
 metafile = true
 
 [[files]]
@@ -687,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "8f8db3e41388ab86919ec46bcfb4080fd0d2e6bc353cca24614105fde6df0b5f"
+hash = "848687370ee00a06ef5f24a0fd71c6c4c83452bd9b003f8edf42807b6439f6fe"
 metafile = true
 
 [[files]]
@@ -752,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
+hash = "6bcb14868f8f7e5756b9cc96de54f4948a4f13120e4e76f4193c3c71890ffe1e"
 metafile = true
 
 [[files]]
@@ -787,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "eb1bde8fc12fe16bde75234d4c5c8a1894c7939acdc4d8cda303044cdbf0d9da"
+hash = "c36d522fabbfefbb9dcde8eba4f7233b43b3c01b0c144a75c1bc5f72eb8ec01d"
 metafile = true
 
 [[files]]
