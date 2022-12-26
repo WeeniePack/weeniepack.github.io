@@ -1,13 +1,13 @@
 name = "Cave Enhancements"
-filename = "cave-enhancements-1.19.2-2.1.6-fabric.jar"
+filename = "cave-enhancements-1.19.2-2.1.7-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LUVcqDu1/versions/3McG07uF/cave-enhancements-1.19.2-2.1.6-fabric.jar"
+url = "https://cdn.modrinth.com/data/LUVcqDu1/versions/4jXvteAR/cave-enhancements-1.19.2-2.1.7-fabric.jar"
 hash-format = "sha1"
-hash = "db210e3313c8cb91e1ce3f560fcef59321e7b274"
+hash = "84c366412c73aa5c008b88f76918c0805979fafa"
 
 [update]
 [update.modrinth]
 mod-id = "LUVcqDu1"
-version = "3McG07uF"
+version = "4jXvteAR"
