@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "c8c449a2a1c7afc56ccec125cfcc327bf7780a95194ecaac367acbc58e1eebb3"
+hash = "aeb1c230af17c82579dcc7eaa4861f3253626c3dfbff65448e8661cfb7dd152b"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "64705f3ba3bb3fb6beb30861c916f39c9c63ef4e6f83d9fac58063c55370cfdc"
+hash = "5ee8fe6018c7ad0fba0a3aa434aae95c7c3aee860f14262276459c4cfbbde17c"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1384ec6332b4a2a4c71a6a49b7e5fd721dd2baa53757ddbf95be0c29811c0797"
+hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c36d522fabbfefbb9dcde8eba4f7233b43b3c01b0c144a75c1bc5f72eb8ec01d"
+hash = "26574964ff2a96d6b5acd1dd81fa9204aa3963900dd37e045e588d360795e302"
 metafile = true
 
 [[files]]
