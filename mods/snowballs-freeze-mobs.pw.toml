@@ -1,13 +1,13 @@
 name = "Snowballs Freeze Mobs"
-filename = "snowballsfreezemobs-fabric_1.19.2-2.2.jar"
+filename = "snowballsfreezemobs-1.19.2-3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ETKe9DNz/versions/67UCLtXV/snowballsfreezemobs-fabric_1.19.2-2.2.jar"
+url = "https://cdn.modrinth.com/data/ETKe9DNz/versions/3YeqmAT4/snowballsfreezemobs-1.19.2-3.0.jar"
 hash-format = "sha1"
-hash = "29886804279381104a9e284dfc98741aa2d09694"
+hash = "4c8f63f6a84db68da0c8e4510d556555a4e54aaf"
 
 [update]
 [update.modrinth]
 mod-id = "ETKe9DNz"
-version = "67UCLtXV"
+version = "3YeqmAT4"
