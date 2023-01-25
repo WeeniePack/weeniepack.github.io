@@ -371,11 +371,6 @@ hash = "85c1250e94f089d798a50785578a1d79ecaac7c69ea7dec66782d25a43a051ca"
 metafile = true
 
 [[files]]
-file = "mods/grid.pw.toml"
-hash = "b54ee7e16d6b8fd292cd203852a9e7f66e867d662db4116ce29b161fa7468251"
-metafile = true
-
-[[files]]
 file = "mods/grindstone-sharper-tools.pw.toml"
 hash = "63dcbfcb8972f41656fcc100ce0579f107779d4cbc5b63742023a69f1d04317c"
 metafile = true
