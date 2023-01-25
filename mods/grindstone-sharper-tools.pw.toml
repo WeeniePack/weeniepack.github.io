@@ -1,13 +1,13 @@
 name = "Grindstone Sharper Tools"
-filename = "grindstonesharpertools-fabric_1.19.2-2.3.jar"
+filename = "grindstonesharpertools-1.19.2-3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/p6y1z1Qa/versions/Ojxwho7t/grindstonesharpertools-fabric_1.19.2-2.3.jar"
+url = "https://cdn.modrinth.com/data/p6y1z1Qa/versions/h5fGbq6A/grindstonesharpertools-1.19.2-3.0.jar"
 hash-format = "sha1"
-hash = "68f8582507543d8c99b20c30d431462735683d44"
+hash = "703aa45fc9e6e170885397e5d8088c76e00e9609"
 
 [update]
 [update.modrinth]
 mod-id = "p6y1z1Qa"
-version = "Ojxwho7t"
+version = "h5fGbq6A"
