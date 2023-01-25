@@ -196,6 +196,11 @@ hash = "4f10d0e18af7387a4ff1c914c8211b55b2b825f8226ce35a56403ab2fd6c38a3"
 metafile = true
 
 [[files]]
+file = "mods/build-guide.pw.toml"
+hash = "75488ed1b683de0b28b42494c984c57da92f96da65f0fdc6457593a7c4596a32"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "2711c6d0b35de28822c0dfe51c5f5da71571d681a357cea200b9eed97125f1ca"
 metafile = true
@@ -547,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega.pw.toml"
-hash = "91c97dcc65db666503c28cef16766920ebd52bb72f9e2c974e87da4e078d4abe"
+hash = "b923ccda80f7c78a2f074becd60fee1c7c797ef0d06eef987823331fc699e1ab"
 metafile = true
 
 [[files]]
