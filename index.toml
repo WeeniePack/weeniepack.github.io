@@ -196,11 +196,6 @@ hash = "4f10d0e18af7387a4ff1c914c8211b55b2b825f8226ce35a56403ab2fd6c38a3"
 metafile = true
 
 [[files]]
-file = "mods/build-guide.pw.toml"
-hash = "75488ed1b683de0b28b42494c984c57da92f96da65f0fdc6457593a7c4596a32"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "2711c6d0b35de28822c0dfe51c5f5da71571d681a357cea200b9eed97125f1ca"
 metafile = true
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/eden-ring.pw.toml"
 hash = "e5fae7fedf895b1d725df48f57567bfb2f4a45b76c70f63f856a253fbd635b80"
+metafile = true
+
+[[files]]
+file = "mods/effortless-fabric.pw.toml"
+hash = "4e901bafa909c6b1af94b944cd7365639f0746e2b753a2fcd892cb9fcbb5a4b1"
 metafile = true
 
 [[files]]
