@@ -151,6 +151,16 @@ hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment-plus.pw.toml"
+hash = "b26e6787d3c454bb05a40aaba03312550be330034c61d6ff7dc9a18e9515d5bb"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "e5db1e8232d9f025666aa3b961353530a840ace03c868bbfcec60df27c2aef7c"
 metafile = true
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "c60eb13970396494455433ac2fa51df275d9e3222d31704b427fd7ccdfbcbce3"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "744abba2566fd402bf2eeda7ad6e6b8921deda07f691b58718da2b9761c78cb4"
 metafile = true
 
 [[files]]
@@ -276,8 +291,18 @@ hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
+metafile = true
+
+[[files]]
+file = "mods/ctov-croptopia-compat.pw.toml"
+hash = "ff9d458ca746e32422b8dc339ebab40a52097c1941b25552fee7282f416f9bce"
 metafile = true
 
 [[files]]
@@ -338,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "b7ebbab8177c2bdade567700f4956ae07b2a5cea4d63226d2b2e3bb69a259619"
 metafile = true
 
 [[files]]
@@ -663,6 +693,16 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "7a9826981f7d7f143d716fa20f973860a6228fcd8b2d15dd4d7f2e8b78cee776"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
+metafile = true
+
+[[files]]
+file = "mods/plant-in-a-jar.pw.toml"
+hash = "f344dd58b1d443a6f70a1c6183062d24fd815e5e82ca475efaeb51dc9d6437a0"
 metafile = true
 
 [[files]]
