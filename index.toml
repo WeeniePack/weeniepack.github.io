@@ -36,6 +36,11 @@ hash = "04d2407d8183b2fca737ce18e95a3f1914380b54011df3461ad8d045b06b649f"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
 metafile = true
