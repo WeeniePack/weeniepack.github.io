@@ -1,13 +1,13 @@
 name = "MVS - Moog's Voyager Structures"
-filename = "mvs-2.5.9.jar"
+filename = "mvs-2.5.10-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/OTnK2lWL/mvs-2.5.9.jar"
+url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/zvIKEhHo/mvs-2.5.10-1.19.2.jar"
 hash-format = "sha1"
-hash = "9d6209686865df9bd1275ffec7d58ebb1ed5b41d"
+hash = "50399df8aa492b35a7e1cec13e07631e82b99a2b"
 
 [update]
 [update.modrinth]
 mod-id = "OQAgZMH1"
-version = "OTnK2lWL"
+version = "zvIKEhHo"
