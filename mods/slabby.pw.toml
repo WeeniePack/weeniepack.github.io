@@ -1,0 +1,13 @@
+name = "Slabby"
+filename = "slabby-0.2.3-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WU7yHWE8/versions/L2MFiSEg/slabby-0.2.3-1.19.jar"
+hash-format = "sha1"
+hash = "e98d613f90d92d5efa3c9a443be44bf0823b8fe8"
+
+[update]
+[update.modrinth]
+mod-id = "WU7yHWE8"
+version = "L2MFiSEg"

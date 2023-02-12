@@ -281,6 +281,11 @@ hash = "f46b7cedf2a94914e65012c07387024c4205f9c4c235a784948a72ca0cc84648"
 metafile = true
 
 [[files]]
+file = "mods/craft-slabs-back-into-blocks.pw.toml"
+hash = "14761622ca664f57dd376725e8ba8997fbdb9ef26b5b6463fcab1b9a13d3511b"
+metafile = true
+
+[[files]]
 file = "mods/crafting-bench.pw.toml"
 hash = "4a1a8c09e388636b6dc6ff9ac7ab5d09cda3a2250848ba522ac626677ad3d9a5"
 metafile = true
@@ -646,6 +651,11 @@ hash = "4bb389e7dbcc3422e74cfddd0955a4186e25085843bfdbdbab8011302f9d0447"
 metafile = true
 
 [[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "94661e57ff57331804c3c083c7c2c89fadd78da9a31f75358844b6502059cfa2"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "6c28358e545cd3e91de4296061548392a71a97522be4cbde02ad5970a1ba1003"
 metafile = true
@@ -808,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "a243327d90ad1e54920df9ff58625080348a771d8ac98573544667dee6783bbc"
+metafile = true
+
+[[files]]
+file = "mods/slabby.pw.toml"
+hash = "54ae8d497817bcfb86ce8b3804a6e6c1e5a3df631def4e8aff549dc6f804c98e"
 metafile = true
 
 [[files]]
