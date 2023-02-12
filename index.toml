@@ -651,11 +651,6 @@ hash = "4bb389e7dbcc3422e74cfddd0955a4186e25085843bfdbdbab8011302f9d0447"
 metafile = true
 
 [[files]]
-file = "mods/more-slabs-stairs-and-walls.pw.toml"
-hash = "94661e57ff57331804c3c083c7c2c89fadd78da9a31f75358844b6502059cfa2"
-metafile = true
-
-[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "6c28358e545cd3e91de4296061548392a71a97522be4cbde02ad5970a1ba1003"
 metafile = true
