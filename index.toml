@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "072d8560e211ca06048bedc494224da54138359b1c9dccbff3819ef6a29ad916"
+hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
 metafile = true
 
 [[files]]
@@ -821,11 +821,6 @@ hash = "a243327d90ad1e54920df9ff58625080348a771d8ac98573544667dee6783bbc"
 metafile = true
 
 [[files]]
-file = "mods/slabby.pw.toml"
-hash = "54ae8d497817bcfb86ce8b3804a6e6c1e5a3df631def4e8aff549dc6f804c98e"
-metafile = true
-
-[[files]]
 file = "mods/smelting-sand-in-blast-furnace.pw.toml"
 hash = "b7d159436026dbab52cd2e7ffd2f884367d759cc03d7f02aa8d7e956b47be408"
 metafile = true
@@ -948,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "bb45d1e26829401cf103034bda6ec8954b3f7e90b8e6062f55baba4908faa8a3"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "3cd5320044d90e098a1313b0d7e0de27cb582da2c746b04227adb29f6e2b5f82"
 metafile = true
 
 [[files]]
