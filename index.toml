@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedreborn.pw.toml"
-hash = "04d2407d8183b2fca737ce18e95a3f1914380b54011df3461ad8d045b06b649f"
+hash = "e3609567faff9a7e986836952104055ae2494a468a368e4de0dd3d66cf7abd65"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-core.pw.toml"
-hash = "78531f5d1d593c89f059f85c5f07a33d4dfcae25e65cf87eae9e2d3b250fb8bc"
+hash = "84786bd4ca728d378b2457733ead564d0429c2c09ba55439d2efaf8ba1b4bedb"
 metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "a2155bf8de6eb6f8f29de455fc99ecd969796fb35eff15d1251dc35b2842b795"
+hash = "b590ad5d623321b070d902773dda95b0372b600c4620ac3a3105872196282cdf"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "5f9c2805feca5a1393018b73b67db3aaa5f8eb28edf52ae2965aebfc1483a745"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
+hash = "072d8560e211ca06048bedc494224da54138359b1c9dccbff3819ef6a29ad916"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
+hash = "8b6b35edb19ad88e9a04a295fa8d1d1dcccb44288ab2526371734625a95d1989"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-core.pw.toml"
-hash = "88522d5b5f2776703b244f600708a1dc5b3cbaaa61d99c0c7191981656654784"
+hash = "97eb9d4e337881d81b3bb43aeb83c2c8125480f46a7b322075e50c5b78b49e3d"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "535901bae46f6e491770d5c6c1709db3a07ecc2223c6a299e5c7ff1a68a54a2c"
+hash = "bfac784df9586e95e989d328395763987c2fa9fb51196f13d823d4531470befa"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "9e30c2a5ab90ad1187af03089e6f13588d2f8a2193a58b735c694c4ccbccc48c"
+hash = "150e42cd09109fe138cac6eb8c5cb8623f1a8aa1e118da4f3a842cf59380a900"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
+hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "df7da6ff53801d267c420cf3487df8cc92de2db7bbc8c085747e51f2702c6bfb"
+hash = "a243327d90ad1e54920df9ff58625080348a771d8ac98573544667dee6783bbc"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "e2596879b22dba65866044a08b1474fa705c2386b730f9dcdf1925138a6a7aa3"
+hash = "1dfbe2c85dfbc214cc7982893afa96850bcddf43b537b24f7067a05227abc092"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "c3ac0a55d9ad70ffd09246354dd3da272b35adf8543ba0654b3bd885d80e0830"
+hash = "c14f01a15feb562f91b9ddd95911219d1b5ef584f4f88d122deea01f4bb20c74"
 metafile = true
 
 [[files]]
