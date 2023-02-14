@@ -526,6 +526,11 @@ hash = "a4a461e73eb037dd5b5f3015a9a53d947c4533535b98f072f4ea96e90e9d68e4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "a603b8ee93008d7100f8cfec635498f3c585e1edf10f2c05b237eaf0f75bce70"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "46abacb059a2af9fe270f2be6c714ac7d5eeee71b4a9fa2f20ac047438a12cab"
 metafile = true
@@ -541,6 +546,11 @@ hash = "b16dd6d03444954164f412bdbbf33c23e88a28daf83fa4628027c6b3e167107a"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
+hash = "ff1a70511338c17c698d4e0b2b5980e0576a88385ed1cde03d7fbfd491b2b688"
+metafile = true
+
+[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "f4fdb82265f6fcff7dafcff59bd579ac335b37b16808e094e940d819233cfe77"
 metafile = true
@@ -553,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "867d03dd010e40e9391cd6a9a314a0accf77a3798510a4bcc9391269f451e6b6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
+hash = "ec182bf912a7a9c8c79022b0410459ba678cf55ac0db391255f4f37805a90cf3"
 metafile = true
 
 [[files]]

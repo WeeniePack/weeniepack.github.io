@@ -1,12 +1,12 @@
 name = "WeeniePack 1.19.2"
 author = "Karteufel"
-version = "0.8.1"
+version = "0.8.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5fececb341191df0170db1d3746292a61126e121a377eab04833158e4f1c2922"
+hash = "964a9a4479e41f9eab97bb88f8946f801825967be12889d8611ce1ddc4be2c64"
 
 [versions]
 minecraft = "1.19.2"
