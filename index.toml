@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "b590ad5d623321b070d902773dda95b0372b600c4620ac3a3105872196282cdf"
+hash = "cb121380bcde381e37657b54c3bb74f8d25cf9c9d4f13a500f069e29f251e5cc"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/bottle-your-xp.pw.toml"
-hash = "746d73fff8622117c46c986cf4aeb1c859781e567afb22430973e1a779246e97"
+hash = "5b8f31f6813abb4504eb411878849f6d7a508eadec2acd28fc81cc0f7e9ca152"
 metafile = true
 
 [[files]]
 file = "mods/bottled-air.pw.toml"
-hash = "f067a38a3d0bc4f6c6515b14d5b18ab5b245d7c822bde7f723163a36114b970f"
+hash = "32acabf55902c354b5a2d52b8a547eb2b4f009e6849e777d1c4f658f0f421a21"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
-hash = "2adcd7620e7899209d19a75e0a209cab6f3454a2b3758f9085b35deea9bf2cb3"
+hash = "3e6f909266ec1e28f678ac2c009953715f6a806a0dd374c09acff441b9ecffc9"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "bfac784df9586e95e989d328395763987c2fa9fb51196f13d823d4531470befa"
+hash = "0f4088431fab33d157a2ea3a6c53f5b6aca29d8b4d3893bb574665daf5af8a0e"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "442aa2f4615ccf6a2a307d9f45a15c9789a29fa0848ca0c5350a93e941a770e2"
+hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "afeec8ff0d062c7144d255b706ce18f0f9223a7a0851146fdbe17cfd441c0609"
+hash = "c3925d12665f2c5314adabde6070b74a984637922eb7286f16630377942656f2"
 metafile = true
 
 [[files]]
