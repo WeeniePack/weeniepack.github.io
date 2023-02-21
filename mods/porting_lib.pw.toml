@@ -1,13 +1,13 @@
 name = "Porting Lib"
-filename = "porting_lib-2.1.786+1.19.2.jar"
+filename = "porting_lib-2.1.811+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tEJPA4Ty/versions/NlEz2gLC/porting_lib-2.1.786%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/tEJPA4Ty/versions/QQYhiJRT/porting_lib-2.1.811%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "ca761db489c4ffe95d9167783783aa4e8d6e139b"
+hash = "1b74e3b2b8bb538c27f4aef0d06f3c0d2505653c"
 
 [update]
 [update.modrinth]
 mod-id = "tEJPA4Ty"
-version = "NlEz2gLC"
+version = "QQYhiJRT"
