@@ -1,0 +1,13 @@
+name = "ExplosionGriefingGamerule"
+filename = "explosion_griefing_gamerule-0.0.1-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l9H9JPmo/versions/D4VqoI31/explosion_griefing_gamerule-0.0.1-1.19.x.jar"
+hash-format = "sha1"
+hash = "595ebb9c259954a2b0051c85cea5fe5045946694"
+
+[update]
+[update.modrinth]
+mod-id = "l9H9JPmo"
+version = "D4VqoI31"

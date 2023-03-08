@@ -356,6 +356,11 @@ hash = "ba9d24c505acf5a4d14c7e23e3e4eccc39a4cc3f96bfe52375e08efbd4dda6a9"
 metafile = true
 
 [[files]]
+file = "mods/explosiongriefinggamerule.pw.toml"
+hash = "49db02fc7e789ada0a6b731466b0645d8749eba2d877a39b429738cad51b3e50"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "a5c0c11ef2583adbaeaeba8486de5448197ef7fa1b8ab5fd7bb900ed27c21fc3"
 metafile = true
