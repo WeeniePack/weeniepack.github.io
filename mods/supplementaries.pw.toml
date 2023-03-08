@@ -3,11 +3,6 @@ filename = "supplementaries-1.19.2-2.2.56-fabric.jar"
 side = "both"
 
 [download]
+url = "https://weeniepack.github.io/jars/supplementaries-1.19.2-2.2.56-fabric.jar"
 hash-format = "sha1"
-hash = "24a1a612dde2b2add1a57658ba54c2db63f9e664"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4424393
-project-id = 412082
+hash = "83204bb27b51d4535f0457962ee892c32291ca3a"
