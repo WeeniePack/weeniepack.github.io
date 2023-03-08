@@ -276,6 +276,11 @@ hash = "7c0c2df0414839b1c8ba38d37e4f13ea3df1123fb6996eee115cbc2fc8edc463"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "a7392bc71b4df3152d4ea77230c430d50341688e5f4fc292fdb75bdea3ef211a"
+metafile = true
+
+[[files]]
 file = "mods/coxinha-utilities.pw.toml"
 hash = "f46b7cedf2a94914e65012c07387024c4205f9c4c235a784948a72ca0cc84648"
 metafile = true
